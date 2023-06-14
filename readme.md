@@ -17,7 +17,7 @@
 - 📫 How to reach me **dayanjayasinghe93@gmail.com**
 
 - ⚡ Fun fact Travel ![image](https://github.com/Dayan1999/Dayan1999/assets/81003699/336954f5-f97d-4474-80a6-f63b28695ee4)
-, 
+
 - Play Musical instrument🎷
 
 <h3 align="left">Connect with me:</h3>
