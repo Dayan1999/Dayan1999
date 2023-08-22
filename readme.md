@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/DayanJayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dayan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dayan-jayasinghe-66117a248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dayan jayasinghe" height="30" width="40" /></a>
-<a href="https://fb.com/dayan jayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavindu jayasinghe" height="30" width="40" /></a>
+<a href="https://fb.com/dayan jayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dayan jayasinghe" height="30" width="40" /></a>
 <a href="https://instagram.com/dayan_j999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavindu_jaye_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/dayan jayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kavindu jayasinghe" height="30" width="40" /></a>
 </p>
@@ -32,8 +32,8 @@
 </br>
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written%20Over-4%20million%20lines%20of%20code-blue)
-![](https://komarev.com/ghpvc/?username=Kavindu-J22&color=orange&style=flat-plastic)
-![GitHub User's stars](https://img.shields.io/github/stars/Kavindu-J22?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
-![GitHub followers](https://img.shields.io/github/followers/Kavindu-J22?label=Follow&style=social)
+![](https://komarev.com/ghpvc/?username=dayan1999&color=orange&style=flat-plastic)
+![GitHub User's stars](https://img.shields.io/github/stars/dayan1999?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
+![GitHub followers](https://img.shields.io/github/followers/dayan1999?label=Follow&style=social)
 <br>
 
